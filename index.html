@@ -1,0 +1,14 @@
+---
+layout: home
+title: Coffee and Tea
+---
+
+
+
+<div class="outer">
+  <ul class="list-group">
+  　　{% for post in site.posts %}
+  　　　　<li class="list-group-item title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  　　{% endfor %}
+  </ul>
+</div>

@@ -1,0 +1,5 @@
+# baseurl: https://fcbruce.github.io/test
+permalink: /blog-cn/:year/:month/:day/:title
+markdown: kramdown
+highlighter: true
+date_format: "ordinal"
