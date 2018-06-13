@@ -1,4 +1,4 @@
-baseurl: https://fcbruce.github.io
+baseurl: https://blog.fcbruce.xyz
 permalink: /blog-cn/:year/:month/:day/:title
 markdown: kramdown
 highlighter: true
